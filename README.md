@@ -1,13 +1,13 @@
 # BUILDERSHAUL_SALES_DASHBOARD
-A real-time Excel dashboard that contains Sales analytics  designed to analyze the operational and financial performance of **BuildersHaul Logistics**. The dashboard provides insights into revenue trends, sales performance, customer behavior, payment methods, and regional performance.
+A real-time Excel dashboard that contains Sales analytics  designed to analyze the operational and financial performance of BuildersHaul Logistics. The dashboard provides insights into revenue trends, sales performance, customer behavior, payment methods, and regional performance.
 
 
 ---
 
 ##  Project Overview
-This project presents a comprehensive data analysis dashboard for **BuildersHaul Logistics**, focusing on revenue performance, sales trends, customer behavior, payment methods, marketing effectiveness, and regional distribution.
+This project presents a comprehensive data analysis dashboard for BuildersHaul Logistics, focusing on revenue performance, sales trends, customer behavior, payment methods, marketing effectiveness, and regional distribution.
 
-The analysis was carried out using **Microsoft Excel**, with cleaned and transformed data visualized through an interactive dashboard.
+The analysis was carried out using Microsoft Excel, with cleaned and transformed data visualized through an interactive dashboard.
 
 
 
@@ -28,7 +28,7 @@ The analysis was carried out using **Microsoft Excel**, with cleaned and transfo
 ##  Revenue Analysis
 
 ### 1. Monthly Revenue Trend
-- Revenue shows a **steady increase from March onwards**
+- Revenue shows a steady increase from March onwards
 - Minor fluctuations mid-year, followed by a strong finish in Q4
 - Indicates improved operational efficiency and demand stability
 
@@ -39,16 +39,16 @@ The analysis was carried out using **Microsoft Excel**, with cleaned and transfo
 | Granite | Medium |
 | Stones | Lowest |
 
- **Sand is the primary revenue driver**, suggesting high demand in construction projects.
+ Sand is the primary revenue driver, suggesting high demand in construction projects.
 
 ---
 
 ##  Payment Method Distribution
 
 Revenue is distributed almost evenly across:
-- **Bank Transfer**
-- **Cash**
-- **Credit Card**
+- Bank Transfer
+- Cash
+- Credit Card
 
 This indicates **diverse customer payment preferences** and reduced dependency on a single payment channel.
 
@@ -56,10 +56,10 @@ This indicates **diverse customer payment preferences** and reduced dependency o
 
 ##  Customer Revenue Share
 
-- **Returning Customers:** 50%
-- **New Customers:** 50%
+- Returning Customers: 50%
+- New Customers: 50%
 
- The business shows a **balanced acquisition and retention strategy**, but there is room to strengthen customer loyalty.
+ The business shows a balanced acquisition and retention strategy, but there is room to strengthen customer loyalty.
 
 ---
 
@@ -68,7 +68,7 @@ This indicates **diverse customer payment preferences** and reduced dependency o
 - No strong linear correlation between marketing spend and total revenue
 - High revenue is achievable even at moderate marketing spend levels
 
- Suggests **opportunities for marketing optimization** and better targeting.
+ Suggests opportunities for marketing optimization and better targeting.
 
 ---
 
@@ -81,7 +81,7 @@ This indicates **diverse customer payment preferences** and reduced dependency o
 | North | Moderate |
 | South | Moderate |
 
- The **East region dominates sales**, indicating a potential focus area for expansion strategies.
+ The East region dominates sales , indicating a potential focus area for expansion strategies.
 
 ---
 
@@ -97,11 +97,11 @@ This indicates **diverse customer payment preferences** and reduced dependency o
 
 ##  Recommendations
 
-1. **Expand Sand supply chain** to meet high demand  
-2. **Optimize marketing campaigns** using ROI-based targeting  
-3. **Introduce customer loyalty programs** for repeat buyers  
-4. **Increase focus on underperforming regions** (North & South)  
-5. **Leverage fast delivery (7 days avg.)** as a competitive advantage  
+1. Expand Sand supply chain** to meet high demand  
+2. Optimize marketing campaigns** using ROI-based targeting  
+3. Introduce customer loyalty programs** for repeat buyers  
+4. Increase focus on underperforming regions** (North & South)  
+5. Leverage fast delivery (7 days avg.)** as a competitive advantage  
 
 ---
 
@@ -110,13 +110,13 @@ This indicates **diverse customer payment preferences** and reduced dependency o
 - Excel (Dasboard Design)
 - Pivot tables (Analysis)
 - Excel-Functions (Data cleaning and Transformations)
-- GitHub (Version Control & Documentation)
+  
 
 ##  Data Source
 
-- **Kaggle**  
+- Kaggle 
   Dataset obtained from Kaggle and used for analysis and visualization.
-
+-https://www.kaggle.com/datasets/adeyinkaakanbi/buildershaul-logistics-salesdata
 ---
 
 
